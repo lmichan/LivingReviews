@@ -13,6 +13,7 @@ Sus caracteríticas
 Qué tipo de preguntas abordan
 Con qué frecuencia se actualizan
 Cuántas han concluido
+Cantidad de artículos que integran
 LAs herramientas informáticas que usan
 Cuál es su desarrollo, tendencias, estructura y otras variables
 
