@@ -22,8 +22,14 @@ Cantidad de artículos que integran
 LAs herramientas informáticas que usan
 Cuál es su desarrollo, tendencias, estructura y otras variables
 Comó se pueden enlazar todas las actualizaciones de un estudio
+
 De que manerá sería pertinente citarlas utilizando CITO ontology para establecer la intensión de las citas
 
+Cómo aprovechar la Web semántica para estructurarlas
+
+Cuál es la mejor manera de cursrlas y anotarlas
+
+Qué tipo de variables resultarían útiles
 
 
 Recursos
