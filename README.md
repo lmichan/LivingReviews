@@ -9,6 +9,9 @@ Además existen meta-revisiones esto es revisiones de las revisiones.
 Queremos entender:
 Cuántos tipos hay
 Sus caracteríticas
+Qué tipo de preguntas abordan
+Con qué frecuencia se actualizan
+Cuántas han concluido
 LAs herramientas informáticas que usan
 Cuál es su desarrollo, tendencias, estructura y otras variables
 
