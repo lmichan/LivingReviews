@@ -1,8 +1,8 @@
 
 More detail in https://github.com/lmichan/LivingReviews
 
-Las revisiones sistematicas vivas o activas (livin reviews en inglés) un tipo emergente de revisión que se actualiza continuamente a medida que se dispone de nueva evidencia
-Este proyecto consiste en hacer una revisión sistemática viva de las revisiones activas de la literatura en ciencias.
+Las revisiones vivas o activas (living reviews en inglés) son un una innovación en la ciencia que consisten en proyectos que se actualizan continuamente a medida que se dispone de nuevas publicaciones.
+Este proyecto consiste en hacer una revisión viva de las revisiones activas de la literatura en ciencias.
 LAs revisiones de litertura son el principal instrumento en la investigación digital para reunir, integrar y sistemtizar, el conocimiento difundido a través
 de los artículos científicos de investigación (literatura primaria) por medio de la revisión exhaustiva, cualitativa o cuantitativa (revisión de literatura).
 Además existen meta-revisiones esto es revisiones de las revisiones.
