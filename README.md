@@ -21,6 +21,9 @@ Cuántas han concluido
 Cantidad de artículos que integran
 LAs herramientas informáticas que usan
 Cuál es su desarrollo, tendencias, estructura y otras variables
+Comó se pueden enlazar todas las actualizaciones de un estudio
+De que manerá sería pertinente citarlas utilizando CITO ontology para establecer la intensión de las citas
+
 
 
 Recursos
