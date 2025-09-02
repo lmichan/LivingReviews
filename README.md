@@ -14,6 +14,9 @@ Cuál es su desarrollo, tendencias, estructura y otras variables
 
 
 Recursos
+
 https://hypothes.is/search?q=tag%3ALivingReviews
+
 https://www.zotero.org/groups/6101018/biometaanalisis/library
+
 https://www.zotero.org/groups/6119018/systematicreviewlution/library
