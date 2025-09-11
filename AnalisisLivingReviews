@@ -1,0 +1,32 @@
+items = []
+all_tags = []
+start = 0
+limit = 100
+
+while True:
+
+    #Url a la biblioteca de Living Reviews
+    url = f"https://www.zotero.org/groups/6122210/livingreviews/library"
+    response = requests.get(url, headers=HEADERS)
+
+    if response.status_code != 200:
+        print(f"Error al obtener datos: {response.status_code}")
+        break
+
+    data = response.json()
+    if not data:
+        break
+
+    for item in data:
+        if "data" in item:
+            item_data = item["data"]
+            tags = [tag["tag"] for tag in item_data.get("tags", [])]
+            all_tags.extend(tags)  # Agregamos las etiquetas a una lista general
+
+            items.append({
+                "titulo": item_data.get("title"),
+                "fecha": item_data.get("dateAdded"),
+                "etiquetas": tags
+            })
+
+    start += limit
