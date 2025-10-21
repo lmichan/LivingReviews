@@ -32,7 +32,7 @@ Cuál es la mejor manera de cursrlas y anotarlas
 Qué tipo de variables resultarían útiles
 
 
-Recursos
+*Recursos*
 
 https://hypothes.is/search?q=tag%3ALivingReviews
 
